@@ -1,4 +1,3 @@
-@@ -0,0 +1,51 @@
 # Python GUI - Shortcut Launcher
 
 ## 목표 및 목적
